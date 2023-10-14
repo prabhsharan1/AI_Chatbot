@@ -11,10 +11,7 @@ Before using this AI chatbot, ensure you have the following dependencies install
 - NLTK (Natural Language Toolkit)
 - Numpy
 
-You can install these dependencies using pip:
-
-```bash
-pip install tensorflow nltk numpy
+You can install these dependencies using pip: pip install tensorflow nltk numpy
 
 ## Code Overview
 
